@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&family=Open+Sans:wght@100..900&display=swap');
+
+@font-face {
+    font-family: 'Caviar Dreams';
+    src: url('../font/Caviar/CaviarDreams.ttf');
+}
+
+@font-face {
+    font-family: 'Caviar Dreams Bold';
+    src: url('../font/Caviar/CaviarDreams_Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Museo Sans';
+    src: url('../font/Museo/MuseoSans_500.otf');
+}
+
+@font-face {
+    font-family: 'Museo Sans';
+    src: url('../font/Museo/MuseoSans_500.otf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../font/Proxima/Fontspring-DEMO-proximanova-regular.otf');
+}
+
+@font-face {
+    font-family: 'Proxima Nova Bold';
+    src: url('../font/Proxima/Fontspring-DEMO-proximanova-bold.otf');
+    font-weight: bold;
+}
